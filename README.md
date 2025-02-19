@@ -4,7 +4,7 @@ Bir otopark için gerçek veri elde etme amacıyla(ayarlamalar yapılarak) kulla
 
 Otopark Simulasyonu
 --------------------------
--Rastgele plaka oluşturma."\t"
+-Rastgele plaka oluşturma. "\t"
 -Rastgele zamanda giriş/çıkış işlemi."\t"
 -Rastgele araç marka model ve tipi oluşturma.
 -Renkli konsol görünümü.
