@@ -3,7 +3,7 @@ Java dilinde yazılmış bir otopark simülasyonu projesidir.
 Bir otopark için gerçek veri elde etme amacıyla(ayarlamalar yapılarak) kullanılabilir.
 
 Otopark Simulasyonu
----------------------------
+--------------------------
 -Rastgele plaka oluşturma.
 -Rastgele zamanda giriş/çıkış işlemi.
 -Rastgele araç marka model ve tipi oluşturma.
@@ -15,4 +15,4 @@ Otopark Simulasyonu
 -Gün sonu kazanılan para ve toplam ciro gösterimi
 -Gün sonu giren çıkan araç tipleri ve sayısı gösterimi
 -Park yeri sayısı belirleme
----------------------------
+
