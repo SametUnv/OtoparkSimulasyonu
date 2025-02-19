@@ -16,7 +16,7 @@ Otopark Simulasyonu
 
 ### 3. Rastgele Araç Marka, Model ve Tipi Oluşturma
 - Araçlar için rastgele marka, model ve araç tipi atanır.
-- Hafif ticari, sedan, SUV gibi çeşitli araç türleri desteklenir.
+- Hatchback, sedan, SUV gibi çeşitli araç türleri desteklenir.
 
 ### 4. Renkli Konsol Görünümü
 - Konsol çıktıları renkli olarak gösterilir.
@@ -36,7 +36,6 @@ Otopark Simulasyonu
 
 ### 8. Tarifeye Dayalı Alınan Ücret (Araç Tipi ve Park Süresine Göre)
 - Park ücretleri araç tipine ve park süresine bağlı olarak hesaplanır.
-- Tarifeler dinamik olarak ayarlanabilir.
 
 ### 9. Gün Sonu Kazanılan Para ve Toplam Ciro Gösterimi
 - Gün sonunda kazanılan toplam para hesaplanır ve raporlanır.
@@ -48,5 +47,5 @@ Otopark Simulasyonu
 
 ### 11. Park Yeri Sayısını Belirleme
 - Otopark kapasitesi başlangıçta kullanıcı tarafından belirlenebilir.
-- Belirlenen kapasiteye göre otopark yönetimi yapılır.
+- Kapasiteye göre araçların gelme sıklığı değiştirilebilir.
 
